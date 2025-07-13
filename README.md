@@ -7,18 +7,18 @@ Generated actionable recommendations based on data analysis, contributing to enh
 
 
 # Tools and Technologies:
- Python
- Jupyter Notebook
- Pandas – data manipulation
- NumPy – numerical operations
- Matplotlib & Seaborn – visualizations
- SQLAlchemy – database connection and data uploading
+ - Python
+ - Jupyter Notebook
+ - Pandas – data manipulation
+ - NumPy – numerical operations
+ - Matplotlib & Seaborn – visualizations
+ - SQLAlchemy – database connection and data uploading
 
 # Task List:
- Load and clean the Zomato dataset
- Handle missing values and inconsistent data
- Analyze dataset using Python
- Connect to a MySQL database using SQLAlchemy
- Upload cleaned dataset to MySQL table
- Analyze dataset using MySQL
- Create visualizations
+ - Load and clean the Zomato dataset
+ - Handle missing values and inconsistent data
+ - Analyze dataset using Python
+ - Connect to a MySQL database using SQLAlchemy
+ - Upload cleaned dataset to MySQL table
+ - Analyze dataset using MySQL
+ - Create visualizations
